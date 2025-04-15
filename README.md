@@ -67,7 +67,7 @@
 ## 📫 Let's Connect!
 
 - 📧 **vaibhgarg5@gmail.com** 
-- 🔗 [LinkedIn](www.linkedin.com/in/vaibhav-garg-8a199622b) 
+- 🔗 ![LinkedIn](https://www.linkedin.com/in/vaibhav-garg-8a199622b/) 
 
 ---
 
