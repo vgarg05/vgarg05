@@ -46,12 +46,7 @@
 
 - **EDA & Preprocessing:** Data Cleaning, Feature Engineering, Data Visualization  
 - **Supervised Learning:**  
-  ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-blue?style=flat-square)  
-  ![SVM](https://img.shields.io/badge/SVM-green?style=flat-square)  
-  ![KNN](https://img.shields.io/badge/KNN-orange?style=flat-square)  
-  ![Decision Tree](https://img.shields.io/badge/Decision_Tree-9c27b0?style=flat-square)  
-  ![Random Forest](https://img.shields.io/badge/Random_Forest-brown?style=flat-square)  
-  ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat-square)
+  ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-blue?style=flat-square)  ![SVM](https://img.shields.io/badge/SVM-green?style=flat-square)  ![KNN](https://img.shields.io/badge/KNN-orange?style=flat-square)   ![Decision Tree](https://img.shields.io/badge/Decision_Tree-9c27b0?style=flat-square)   ![Random Forest](https://img.shields.io/badge/Random_Forest-brown?style=flat-square)   ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat-square)
 
 - **Unsupervised Learning:** K-Means, Hierarchical Clustering, DBSCAN, PCA  
 - **Natural Language Processing (NLP):** Text Preprocessing, Tokenization, TF-IDF, Word Embeddings  
