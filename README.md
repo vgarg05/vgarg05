@@ -51,11 +51,11 @@
 - **Unsupervised Learning:** K-Means, Hierarchical Clustering, DBSCAN, PCA  
 - **Natural Language Processing (NLP):** Text Preprocessing, Tokenization, TF-IDF, Word Embeddings  
 
-- **Core Subjects:** DBMS, Object-Oriented Programming (OOP), DSA (Basics)
+- **Core Subjects:** DBMS, Object-Oriented Programming (OOP), DSA
 
 ---
 
-##  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarg05&show_icons=true&locale=en&layout=compact)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarg05&layout=compact&hide_border=true)
 
 ---
 
