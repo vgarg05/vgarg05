@@ -55,10 +55,6 @@
 
 ---
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarg05&layout=compact&hide_border=true)
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 **vaibhgarg5@gmail.com** 
